@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BilimYurti
-- 👀 I’m interested in Cloud Solution Architect,TerroForm/Ansible,MLOps, Java, JavaScript/ TypeScript,Python. 
+- 👀 I’m interested in Cloud DevOps,TerroForm/Ansible,MLOps, Java, JavaScript/ TypeScript,Python. 
 - 🌱 I’m currently Work as Cloud Engineer 
 <!---
 BilimYurti/BilimYurti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
